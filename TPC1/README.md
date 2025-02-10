@@ -45,3 +45,9 @@ Input sem ficheiro texto;
 python3 tpc1.py
 ```
 
+## Resultados 
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
