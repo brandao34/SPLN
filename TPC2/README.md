@@ -22,6 +22,16 @@ Já a flag "-p" devia colocar as linhas repetidas em comentario com ***#***
 
 Para implementar esta leve alteração adicinei pequenas ***if clauses*** para lidar com os novos casos. 
 
+## Usar
+
+```
+chmod +x filtro.py
+
+./filtro.py -s  teste.txt 
+./filtro.py -e  teste.txt 
+./filtro.py -p  teste.txt 
+```
+
 
 ## Resultados 
 
